@@ -30,10 +30,22 @@ communication.
 8.  **Disconnect & Compare** -- Disconnected VPN to compare browsing
     speed and IP address differences.
 
-## 📸 Screenshot (Connection Status)
+## 📸 Screenshot 
 
-*Add your ProtonVPN/Windscribe client screenshot here showing successful
-connection.*
+<img width="1920" height="1032" alt="UrbanVPN_extension" src="https://github.com/user-attachments/assets/5eed9cb6-ca26-4f99-8996-c55b139b65da" />
+
+<img width="1920" height="1032" alt="ip_befour" src="https://github.com/user-attachments/assets/e5cd334d-3574-41ff-9a5a-4ae844a03cb1" />
+
+<img width="314" height="598" alt="Urban-VPN" src="https://github.com/user-attachments/assets/a0ff31c8-9fad-40c6-b99b-6bbe76d20215" />
+
+<img width="314" height="598" alt="vpn_locations" src="https://github.com/user-attachments/assets/0a20c8a9-414c-44fb-8f73-6b53dc218f34" />
+
+<img width="314" height="598" alt="select_location" src="https://github.com/user-attachments/assets/263a6f4c-ef60-487d-8de5-2384ab6dd963" />
+
+<img width="314" height="598" alt="connected" src="https://github.com/user-attachments/assets/596a614b-7bfa-4148-be27-4d7ae1e5f165" />
+
+<img width="1920" height="1032" alt="ip_after" src="https://github.com/user-attachments/assets/1a38ecc6-28ca-4709-933d-105fd0b81cd9" />
+
 
 ## 🧐 Research: VPN Encryption & Privacy Features
 
