@@ -6,19 +6,19 @@ communication.
 
 ## 🛠️ Tools Used
 
--   VPN Client: ProtonVPN (Free Tier)
+-   VPN Client: UrbanVPN (Free Tier)
 -   Verification:
     [whatismyipaddress.com](https://www.whatismyipaddress.com)
 
 ## 📌 Setup Steps
 
-1.  **Choose VPN Provider** -- Selected ProtonVPN as a reputable free
+1.  **Choose VPN Provider** -- Selected UrbanVPN as a reputable free
     VPN provider.\
-2.  **Account Creation** -- Signed up for a free account on ProtonVPN's
+2.  **Account Creation** -- Signed up for a free account on UrbanVPN's
     official website.\
-3.  **Download & Install** -- Installed ProtonVPN client software for
+3.  **Download & Install** -- Installed UrbanVPN client software for
     the operating system.\
-4.  **Login** -- Logged into the ProtonVPN client using registered
+4.  **Login** -- Logged into the UrbanVPN client using registered
     credentials.\
 5.  **Connect to Server** -- Chose a free server (nearest available
     location) and established a VPN connection.\
@@ -43,7 +43,7 @@ connection.*
     advertisers, or malicious actors.\
 -   VPNs provide secure access to public Wi-Fi by encrypting all
     outgoing and incoming traffic.\
--   ProtonVPN uses AES-256 encryption and strong protocols to maintain
+-   UrbanVPN uses AES-256 encryption and strong protocols to maintain
     privacy.
 
 ## 📝 Summary: Benefits & Limitations of VPNs
@@ -62,7 +62,7 @@ bandwidth restrictions.\
 ## ✅ Conclusion
 
 VPNs are powerful tools for enhancing online security and privacy. While
-free VPNs like ProtonVPN provide essential protection, premium plans
+free VPNs like UrbanVPN provide essential protection, premium plans
 offer better speed, more servers, and stronger features. For sensitive
 activities, choosing a VPN with a strict no-logs policy and strong
 encryption is recommended.
